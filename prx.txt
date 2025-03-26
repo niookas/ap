@@ -1,1 +1,2 @@
-pdsds
+write-output "hello world"
+start-sleep 60
