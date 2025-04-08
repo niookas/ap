@@ -1,4 +1,4 @@
-mode=block
+mode=allow
 mon=08-20
 tue=08-20
 wed=08-20
