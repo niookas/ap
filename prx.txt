@@ -1,2 +1,8 @@
-$pac = "https://pac.zscaler.net/Cc06bSFVQLTY/ZiaProxy.pac"
-bitsadmin /util /setieproxy localsystem AUTOSCRIPT $pac
+mode=allow
+mon=08-20
+tue=08-20
+wed=08-20
+thu=08-20
+fri=08-20
+sat=10-22
+sun=10-22
